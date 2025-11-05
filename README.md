@@ -3,68 +3,68 @@
 Data used in the paper "Chango, W., Lara, J. A., Cerezo, R., & Romero, C. (2022). A review on data fusion in multimodal learning analytics and educational data mining. WIREs Data Mining and Knowledge Discovery, 12(4), e1458" 
  https://doi.org/10.1002/widm.1458
 
-# Format
+## Format
 Comma-separated values (CSV)
 
-# Keywords
+## Keywords
 Data Fusion, Educational Data Science, Multimodal Learning, Smart Learning
 
 ## Metadata
 List of publications analyzed in the paper. 
 The metadata present in the dataset are as follows:
 
-### Authors: 
+#### Authors: 
 List of authors for each publication as they appear in the publication.
 
-### Author full names: 
+#### Author full names: 
 List of full names of authors for each publication.
 
-### Author ID(s): 
+#### Author ID(s): 
 Unique identifiers of the authors in the Scopus database.
 
-### Title: 
+#### Title: 
 Title of the publication.
 
-### Year: 
+#### Year: 
 Year of publication.
 
-### Source Title: 
+#### Source Title: 
 Name of the journal, book, or conference where the publication appeared.
 
-### Volume: 
+#### Volume: 
 Volume of the publication (if applicable).
 
-### Issue: 
+#### Issue: 
 Edition number (if applicable).
 
-### Article Number: 
+#### Article Number: 
 Unique identifier of articles (if applicable).
 
-### Start Page: 
+#### Start Page: 
 Initial page of the publication.
 
-### End Page: 
+#### End Page: 
 Final page of the publication.
 
-### Number of Pages: 
+#### Number of Pages: 
 Number of pages of the publication (if applicable).
 
-### Citations: 
+#### Citations: 
 Number of times the publication has been cited.
 
-### DOI: 
+#### DOI: 
 Digital Object Identifier (if available).
 
-### Index keywords: 
+#### Index keywords: 
 Keywords of the paper.
 
 ### Document type: 
 Type of pulbication (conference paper, article, ...).
 
-### Open Access: 
+#### Open Access: 
 It indicates if the publication is open access and the open access colour.
 
-### EID: 
+#### EID: 
 Unique Scopus Identifier.
 
 ## Reference
