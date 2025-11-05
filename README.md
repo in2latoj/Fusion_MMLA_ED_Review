@@ -58,7 +58,7 @@ Digital Object Identifier (if available).
 #### Index keywords: 
 Keywords of the paper.
 
-### Document type: 
+#### Document type: 
 Type of pulbication (conference paper, article, ...).
 
 #### Open Access: 
